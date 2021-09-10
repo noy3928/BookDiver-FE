@@ -322,7 +322,7 @@ const showProfile = async([entry], observer) => {
   );
 };
 
-const CartWrapper = styled.div`
+const CartWrapper = styled.section`
   width: 100%;
   height: auto;
   display: flex;
@@ -436,7 +436,7 @@ const CreatedAt = styled.p`
   margin: 0px;
 `;
 
-const ContentBox = styled.div`
+const ContentBox = styled.article`
   width: 100%;
   box-sizing: border-box;
   height: auto;
