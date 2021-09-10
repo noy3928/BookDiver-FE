@@ -157,7 +157,7 @@ position:relative;
 }
 `
 
-const Wrapper = styled.div`
+const Wrapper = styled.header`
 background-color: ${Color.mainColor};
 height:auto;
 width:100%;
