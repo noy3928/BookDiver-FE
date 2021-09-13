@@ -1,14 +1,14 @@
 import React, {useEffect} from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import styled from "styled-components";
-import Color from "../../../shared/Color";
+import Color from "../../shared/Color";
 import { useDispatch, useSelector } from "react-redux";
 
-import { actionCreators as userActions } from "../../../redux/modules/user";
-import { actionCreators as permitActions } from "../../../redux/modules/permit";
-import { ArrowBack } from "../../../components/index";
+import { actionCreators as userActions } from "../../redux/modules/user";
+import { actionCreators as permitActions } from "../../redux/modules/permit";
+import { ArrowBack } from "../../components/index";
 
-import NotiCard from "./NotiCard"
+import NotiCard from "../../components/notification/NotiCard"
 
 const useStyles = makeStyles((theme) => ({
     goback: {
@@ -40,7 +40,6 @@ const Notification = (props) =>{
         }
     },[])
 
-    const classes = useStyles();
     return(
         <Wrapper>
         <Container>

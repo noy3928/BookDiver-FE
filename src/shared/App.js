@@ -42,7 +42,7 @@ const MyReviewFind = lazy(() => import("../pages/My/MyReviewFind"))
 const Follow = lazy(() => import("../pages/My/Follow"))
 const OtherFollow = lazy(() => import("../pages/My/OtherFollow"))
 const MyDepth = lazy(() => import("../pages/My/Diving/MyDepth"))
-const Notification = lazy(() => import("../pages/My/Noti/Notification"))
+const Notification = lazy(() => import("../pages/My/Notification"))
 const BookMark = lazy(() => import("../pages/My/BookMark.js"))
 
 //setting
