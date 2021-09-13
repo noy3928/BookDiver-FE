@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import { history } from "../../../redux/configStore";
-import Color from "../../../shared/Color"
+import { history } from "../../redux/configStore";
+import Color from "../../shared/Color"
 
 const MakeButton = (props) =>{
 

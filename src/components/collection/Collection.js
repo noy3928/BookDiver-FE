@@ -1,7 +1,7 @@
 import React ,{useRef, useEffect} from "react";
 import styled from "styled-components";
-import Color from "../../../shared/Color";
-import { history } from "../../../redux/configStore";
+import Color from "../../shared/Color";
+import { history } from "../../redux/configStore";
 import { useSelector } from "react-redux";
 
 //이미지 슬라이드에 있는 한개의 컬렉션

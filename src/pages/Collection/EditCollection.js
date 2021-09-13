@@ -15,7 +15,7 @@ import { actionCreators as collectionActions } from "../../redux/modules/collect
 
 import {SelectBookModal} from "../../modals";
 import {CollectionBookCard} from "../../elements";
-import AddBook from "./component/AddBook";
+import AddBook from "../../components/collection/AddBook";
 
 
 //스타일 정의

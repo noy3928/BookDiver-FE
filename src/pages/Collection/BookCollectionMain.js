@@ -10,8 +10,8 @@ import "swiper/components/pagination/pagination.scss";
 
 
 //컴포넌트
-import WhatCollection from "./component/WhatCollection"
-import CollectionSlider from "./component/CollectionSlider"
+import WhatCollection from "../../components/collection/CollectionSlider"
+import CollectionSlider from "../../components/collection/CollectionSlider"
 //css
 import Color from "../../shared/Color";
 // import bookCollectionLogo from "../../img/bookCollectionLogo.svg"

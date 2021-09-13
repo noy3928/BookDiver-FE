@@ -14,7 +14,7 @@ import { actionCreators as uploadActions } from "../../redux/modules/upload";
 
 import {SelectBookModal} from "../../modals";
 import {CollectionBookCard} from "../../elements";
-import AddBook from "./component/AddBook";
+import AddBook from "../../components/collection/AddBook";
 
 
 import imageCompression from "browser-image-compression";

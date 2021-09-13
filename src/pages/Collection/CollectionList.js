@@ -11,7 +11,7 @@ import MoreHorizIcon from "@material-ui/icons/MoreHoriz";
 import { makeStyles } from "@material-ui/core/styles";
 
 import {EditModal} from "../../modals";
-import MakeButton from "./component/MakeButton";
+import MakeButton from "../../components/collection/MakeButton";
 import {ArrowBack} from "../../components/index"
 
 const useStyles = makeStyles((theme) => ({
