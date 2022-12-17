@@ -40,8 +40,6 @@
 * 책을 좋아하는 사람들이 읽은 책의 구절을 공유하고 책을 추천하면서
 * 책을 중심으로 소통이 이루어지는 sns 서비스 입니다.
 
-<span style="color:red">**직접 사용하러 가기**</span>[ www.bookdiver.net](https://www.bookdiver.net/)
-
 
 <br>
 <br>
