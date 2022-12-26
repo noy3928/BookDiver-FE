@@ -366,16 +366,15 @@ const ChoicedBook = React.memo(()=>{
 
 ## 기능소개/ 실행 화면
 
-
-[1. 로그인](https://github.com/sharingBookReview-SERVICE/sharingBookReview-FE/wiki/1.-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
-<br>
-[2. 게시글 CRUD](https://github.com/sharingBookReview-SERVICE/sharingBookReview-FE/wiki/2.-%EA%B2%8C%EC%8B%9C%EA%B8%80-CRUD)
-<br>
-[3. SNS 기능](https://github.com/sharingBookReview-SERVICE/sharingBookReview-FE/wiki/3.-SNS-%EA%B8%B0%EB%8A%A5)
-<br>
-[4. 북컬렉션](https://github.com/sharingBookReview-SERVICE/sharingBookReview-FE/wiki/4.-%EB%B6%81%EC%BB%AC%EB%A0%89%EC%85%98)
-<br>
-[5. 레벨 시스템](https://github.com/sharingBookReview-SERVICE/sharingBookReview-FE/wiki/5.-%EB%A0%88%EB%B2%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+|<img src="https://user-images.githubusercontent.com/71473074/209509024-0257d8a6-033e-4aee-9147-e93d9d46ddda.gif" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209508666-d87ca2cf-d391-4a0e-aa69-05b92d21b73c.gif" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209508752-ffd4f894-ef7c-4822-8858-215cfaea1832.gif" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209508870-0ab6042c-63a2-4930-9d7e-818cbf368691.gif"  width="200" />| 
+|:---:|:---:|:---:|:---:|
+|좋아요기능|책검색기능|이미지 검색기능|팔로우기반 피드업데이트| 
+|<img src="https://user-images.githubusercontent.com/71473074/209509165-5886fbf2-1af4-4f22-a51d-5c11acdd9d2d.gif" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209509228-3af5d596-7a73-4b81-b13d-f99cc756f608.gif" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209509303-9731bf00-4c32-4980-b03b-44d3c1b98de0.gif" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209509366-39834882-bf7e-45ba-a6b3-1d034e06ace1.gif" width="200" />|
+|북마크 기능|팔로우 기능|팔로우기반 알림기능|북 컬렉션 만들기| 
+|<img src="https://user-images.githubusercontent.com/71473074/209509596-91252c35-161c-49ef-8fb6-b944b4b351d9.gif" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209509635-266aac4e-3620-43d4-9555-0bfc4e684f64.gif" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209509673-c4d8fb49-d375-4808-b3b6-36267a3f788d.png" width="200" />|<img src="https://user-images.githubusercontent.com/71473074/209509738-8c898d91-e564-4f72-8e70-4e237a13d91e.gif" width="200" />|
+|해시태그 기반 추천도서|레벨 시스템 기반 칭호관리|소셜 로그인|추천해시태그 기능|
+|<img src="https://user-images.githubusercontent.com/71473074/209509734-9825106e-1210-4536-931e-f10087d58b5c.gif"  width="200" />|
+|댓글 기능(수정,삭제)| 
 
 
 <br>
@@ -419,6 +418,3 @@ const ChoicedBook = React.memo(()=>{
 
 
 <br>
-
-
-
