@@ -1,8 +1,9 @@
-# Diver(책 리뷰 공유 sns)📘
+# Diver(책 리뷰 공유 sns)📘 
 > 안녕하세요! 인상깊은 책의 구절을 사람들과 공유하고, 책으로 소통할 수 있는 sns 다이버입니다.<br>
 > 책 읽는 것을 좋아하고<br>
 >  다른사람과 읽은 책에 대해 이야기 나눌 수 있는 플랫폼이 없어서 아쉬웠던 분들을 위한 서비스입니다. <br>
-
+>  
+[시연영상 보러가기](https://www.youtube.com/watch?v=mCjRsjOgnOw)   
 
 <br>
 <br>
@@ -33,13 +34,13 @@
 
 ## 프로젝트 소개
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/70359952/131693331-1829bac8-6288-47be-bd28-a4c7cf06b0cb.gif)
-[시연영상 보러가기](https://www.youtube.com/watch?v=mCjRsjOgnOw)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70359952/131693331-1829bac8-6288-47be-bd28-a4c7cf06b0cb.gif)   
 
 <br>
 
 * 책을 좋아하는 사람들이 읽은 책의 구절을 공유하고 책을 추천하면서
-* 책을 중심으로 소통이 이루어지는 sns 서비스 입니다.
+* 책을 중심으로 소통이 이루어지는 sns 서비스 입니다.   
+[시연영상 보러가기](https://www.youtube.com/watch?v=mCjRsjOgnOw)   
 
 
 <br>
