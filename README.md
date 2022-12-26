@@ -34,6 +34,7 @@
 ## 프로젝트 소개
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70359952/131693331-1829bac8-6288-47be-bd28-a4c7cf06b0cb.gif)
+[시연영상 보러가기](https://www.youtube.com/watch?v=mCjRsjOgnOw)
 
 <br>
 
