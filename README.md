@@ -123,7 +123,7 @@
   const observeImage = useRef(null) 
 ...
 // 관찰시 실행할 함수
-  const showImage = async([entry], observer) => {
+  const showImage = ([entry], observer) => {
     if (!entry.isIntersecting) {
       return
     }
